@@ -58,3 +58,7 @@ You need Node.js 18+, [AlgoKit CLI](https://github.com/algorandfoundation/algoki
 
 - [AlgoKit docs](https://developer.algorand.org/docs/get-started/algokit/)
 - [use-wallet docs](https://txnlab.gitbook.io/use-wallet)
+
+## License
+
+Released under the [MIT License](LICENSE).
